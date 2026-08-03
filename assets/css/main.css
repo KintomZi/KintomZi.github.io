@@ -68,7 +68,7 @@ mark{background:#fff3b0;color:inherit;padding:0.1em 0.3em;border-radius:3px}
 .intro-interest-tag{display:inline-block;padding:2px 10px;font-size:0.8em;background:#e8edf3;color:#2a7ae2;border-radius:12px}
 .intro-text{margin:0 0 10px 0;color:#444;line-height:1.6}
 .intro-links{display:flex;gap:12px;align-items:center}
-.intro-link{display:inline-flex;align-items:center;gap:4px;font-size:0.9em;color:#555;text-decoration:none}
+.intro-link{display:inline-flex;align-items:center;gap:4px;font-size:0.9em;color:#424242;text-decoration:none}
 .intro-link:hover{color:#2a7ae2}
 .intro-link-icon{width:16px;height:16px}
 .intro-sep{color:#999;margin:0 -7px}
