@@ -9,6 +9,7 @@ enableGitInfo = false
 
 [params]
   github_username = 'KintomZi'
+  csdn_url = 'https://blog.csdn.net/Z_JingD?type=blog'
   interests = ['Remote Sensing', 'LiDAR', 'Deep Learning']
 
 [taxonomies]
